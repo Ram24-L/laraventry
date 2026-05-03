@@ -1,4 +1,4 @@
-# 📦 Inventori — Sistem Manajemen Inventori Laravel
+# 📦 Laraventry — Sistem Manajemen Inventori Laravel
 
 > Sistem manajemen inventori berbasis web yang dibangun dengan Laravel 13. Dirancang untuk mengelola produk, stok, gudang, supplier, dan kategori dalam satu platform yang aman dan mudah digunakan.
 
