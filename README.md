@@ -496,3 +496,9 @@ php artisan view:clear
 ## 📄 Lisensi
 
 MIT License — bebas digunakan untuk keperluan pribadi, edukasi, maupun komersial.
+# laraventry
+# laraventry
+# laraventry
+# laraventry
+# laraventry
+# laraventry
